@@ -1,0 +1,77 @@
+.first-div {
+    width: 600px;
+    height: 285px;
+    background-color: rgb(77, 170, 183);
+    border-width: 3px;
+    border-color: white;
+    border-radius: 20%;
+    margin: 8px;
+  
+    padding-bottom: 10px;
+    padding: 10px;
+    padding-top: 2px;
+    margin-left: 500px;
+  }
+  
+  #ollist {
+    padding-bottom: 10px;
+    line-height: 30px;
+    font-size: 20px;
+    color: aliceblue;
+  }
+  
+  #ullist {
+    padding-bottom: 10px;
+    line-height: 30px;
+    font-size: 20px;
+    color: aliceblue;
+  }
+  
+  #h1 {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: aliceblue;
+  }
+  
+  .normal-para {
+    color: green;
+  }
+  
+  #fav-para {
+    color: purple;
+  }
+  
+  #msg {
+    text-align: center;
+    font-size: 25px;
+    height: 20px;
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  .info {
+    font-size: 20px;
+    color: aliceblue;
+  }
+  
+  .para {
+    font-size: 30px;
+    color: aliceblue;
+  }
+  
+  .normal-para {
+    font-size: 18px;
+  }
+  
+  #fav-para {
+    font-size: 18px;
+  }
+  
+  body {
+    background-color: wheat;
+  }
+  
+  .img {
+    margin-left: 500px;
+    margin-right: 100px;
+  }
